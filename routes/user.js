@@ -16,6 +16,7 @@ router.get('/', async (req, res) => {
     }
 });
 
+//during the other steps in which the other parts are not working are in the purpose to offer different services or products than the ones we posses.
 router.get('/:id', async (req, res) => {
     //risky
     try {
